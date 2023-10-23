@@ -1,0 +1,21 @@
+ El objetivo del juego es adivinar el nombre de un Pokémon inicial específico basándote en su tipo y generación.
+
+Cómo Jugar:
+
+    Inicio del Juego: El juego te preguntará sobre el tipo del Pokémon (Planta, Fuego o Agua) y la generación a la que pertenece (1, 2, 3...). Deberás proporcionar estas dos características para adivinar el Pokémon.
+
+    Adivinando el Pokémon: Después de responder las preguntas sobre el tipo y la generación, el juego utilizará el encadenamiento hacia adelante para buscar en su base de datos de Pokémon y determinar cuál podría ser el Pokémon inicial que coincide con las características especificadas.
+
+    Resultado: El juego te mostrará el nombre del Pokémon inicial que corresponde a las características proporcionadas. Esto te ayudará a entender cómo el encadenamiento hacia adelante se utiliza para deducir la respuesta basándose en reglas lógicas.
+
+Por qué se utiliza el Encadenamiento hacia Adelante en un Sistema Experto:
+El encadenamiento hacia adelante es una técnica esencial en los sistemas expertos, que son programas de inteligencia artificial diseñados para tomar decisiones basadas en reglas lógicas y conocimientos previos. Aquí hay algunas razones por las que el encadenamiento hacia adelante es valioso en un sistema experto:
+    Inferencia Lógica: El encadenamiento hacia adelante permite que el sistema experto derive nuevas conclusiones basadas en un conjunto de reglas lógicas predefinidas. En el juego, las reglas establecidas para cada Pokémon (tipo y generación) se utilizan para inferir cuál es el Pokémon correcto.
+
+    Eficiencia: El encadenamiento hacia adelante puede ser más eficiente que la búsqueda exhaustiva. En lugar de evaluar todos los Pokémon en la base de datos, el sistema experto solo considera aquellos que cumplen con las reglas lógicas definidas, reduciendo la carga computacional.
+
+    Razonamiento Automatizado: El encadenamiento hacia adelante automatiza el proceso de razonamiento lógico. En un sistema experto más complejo, esto puede implicar reglas mucho más detalladas y un conocimiento extenso.
+
+    Tomar Decisiones: Los sistemas expertos utilizan el encadenamiento hacia adelante para tomar decisiones basadas en información y reglas lógicas. Esto es útil en una variedad de aplicaciones, desde diagnósticos médicos hasta recomendaciones de productos.
+
+En resumen, el encadenamiento hacia adelante es una técnica esencial en los sistemas expertos, ya que permite que el sistema tome decisiones lógicas basadas en reglas predefinidas y conocimientos previos. El juego te brinda una introducción práctica a este concepto a través de un ejemplo sencillo de adivinanza de Pokémon. ¡Diviértete y aprende mientras juegas!
